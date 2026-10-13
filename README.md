@@ -2,6 +2,10 @@
 
 This Extension/tool add more themes to Yapper. There are themes for you to pick, and there is a Theme Custom Creator; you can make your own theme or import other users' themes!
 
+
+Warning: AI did help fix some bugs that I had during this
+
+
 Two Expamles of themes: <img width="1920" height="939" alt="(99+) Yapper and 6 more pages - Personal - Microsoft​ Edge 10_13_2026 10_31_36 AM" src="https://github.com/user-attachments/assets/4cc03651-8dab-449e-b43e-3a84d44df39b" />
 
 <img width="1920" height="930" alt="(99+) Yapper and 6 more pages - Personal - Microsoft​ Edge 10_13_2026 10_31_22 AM" src="https://github.com/user-attachments/assets/c2d31705-2675-4004-9220-e69738d3eea5" />
