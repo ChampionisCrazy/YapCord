@@ -3,6 +3,9 @@
 This Extension/tool add more themes to Yapper. There are themes for you to pick, and there is a Theme Custom Creator; you can make your own theme or import other users' themes!
 
 
+https://yapper.website/invite/vXyKsDdC
+
+
 Warning: AI did help fix some bugs that I had during this
 
 
